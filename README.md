@@ -3,7 +3,7 @@
 An array is a special variable, which can hold more than one value at a time.
 
 
-In PHP, the array() function is used to create an array:
+In PHP, the array() function is used to create an array
 
 # syntax: array();
 
